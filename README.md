@@ -5,6 +5,8 @@
 </p>
 
 
+[![Build Status](https://travis-ci.com/vicboma1/2020-06-btc-sw-agile-tutoria5.svg?branch=master)](https://travis-ci.com/vicboma1/2020-06-btc-sw-agile-tutoria5)
+
 Install
 ```
 typescript    https://www.typescriptlang.org/
